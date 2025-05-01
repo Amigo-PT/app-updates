@@ -3,7 +3,7 @@
     "orthopedic": {
       "head_neck_protocols": {
         "cervicogenic_headache": {
-          "phase_1": "yourusername/yourrepo/main/pdfs/orthopedic/head_neck/cervicogenic_headache_phase1.pdf",
+          "phase_1": "https://drive.google.com/file/d/1FFl0gPMP8RSCGtTAPUkQ7vTcW6aPnOd3/view?usp=sharing",
           "phase_2": "yourusername/yourrepo/main/pdfs/orthopedic/head_neck/cervicogenic_headache_phase2.pdf"
         }
       },
