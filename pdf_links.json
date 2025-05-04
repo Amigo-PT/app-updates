@@ -1,17 +1,13 @@
 {
-  "protocols": {
-    "orthopedic": {
-      "Head & Neck Protocols": {
-        "Cervicogenic Headache": {
-          "phase_1": "https://drive.google.com/uc?export=download&id=1FFl0gPMP8RSCGtTAPUkQ7vTcW6aPnOd3",
-          "phase_2": "yourusername/yourrepo/main/pdfs/orthopedic/head_neck/cervicogenic_headache_phase2.pdf"
-        }
-      },
-      "shoulder_protocols": {
-        "bicep_tendinopathy": {
-          "phase_1": "yourusername/yourrepo/main/pdfs/orthopedic/shoulder/bicep_tendinopathy_phase1.pdf"
-        }
-      }
+  "Head & Neck Protocols": {
+    "Cervicogenic Headache": {
+      "Phase 1": "https://drive.google.com/uc?export=download&id=1FFl0gPMP8RSCGtTAPUkQ7vTcW6aPnOd3",
+      "Phase 2": "https://drive.google.com/uc?id=FILE_ID_2&export=download"
+    }
+  },
+  "Shoulder Protocols": {
+    "Rotator Cuff Injury": {
+      "Phase 1": "https://drive.google.com/uc?id=FILE_ID_3&export=download"
     }
   }
 }
